@@ -6,6 +6,13 @@ var name = 'Tyler';
 
   //Code Here
 
+  var isTyler = function(name) {
+    if (name === "Tyler") {
+      return true;
+    } else {
+      return false;
+    }
+  };
 //////////////////PROBLEM 2////////////////////
 
 
@@ -14,6 +21,9 @@ var name = 'Tyler';
 
   //Code Here
 
+  function getName() {
+    
+  }
 
 //////////////////PROBLEM 3////////////////////
 
